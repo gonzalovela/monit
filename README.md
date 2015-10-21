@@ -1,2 +1,2 @@
 # monit
-#Coonofiguracaion
+#Configuracaion
